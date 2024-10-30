@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "fuego",
+    "hp": 100,
+    "atk": 20
+  },
+  {
+    "id": 2,
+    "name": "agua",
+    "hp": 100,
+    "atk": 20
+  },
+  {
+    "id": 3,
+    "name": "planta",
+    "hp": 100,
+    "atk": 20
+  },
+  {
+    "id": 3,
+    "name": "volador",
+    "hp": 100,
+    "atk": 20
+  }
+]
